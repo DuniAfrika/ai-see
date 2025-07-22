@@ -1,6 +1,6 @@
 # AI-SEE: AI-Spatial Equity Engine for Kibera
 
-**AI-SEE** is an planning systme that uses IBM watsonx and Agentic AI to identify, prioritize, and visualize essential infrastructure gaps like **toilets**, **water points**, and **clinics**—in **Kibera slums, Nairobi**.
+**AI-SEE** is an planning system that uses IBM watsonx and Agentic AI to identify, prioritize, and visualize essential infrastructure gaps like **toilets**, **water points**, and **clinics**—in **Kibera slums, Nairobi**.
 
 🚀 Built for the **IBM TechXchange 2025 Pre-conference watsonx Hackathon**  
 🎯 Targeting **SDG 11: Sustainable Cities and Communities**
